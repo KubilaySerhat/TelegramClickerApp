@@ -1,3 +1,3 @@
 # Notcoin-Clone
 
-Developped by Kubilay Elüstü
+Developped by Kubilay Elustu
