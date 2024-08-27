@@ -11,7 +11,7 @@ const App = () => {
   });
   
   const [energy, setEnergy] = useState<number>(() => {
-    // Check local storage for saved energy
+    // check local storage for saved energy
     const savedEnergy = localStorage.getItem('energy');
     return savedEnergy ? parseInt(savedEnergy, 10) : 50;
   });
